@@ -5,8 +5,9 @@ Course Programming Project:  Frogger game in assembly and c.
 
 A simple recreation of the classic game Frogger.
 
-libc.asm and lc4libc.h were given to me for the assignment.
+The game code is written in c however the game runs in assembly.
 
-The game itself runs in assembly, but the game logic is written in c and displayed using assembly.  os.asm was mostly prewritten for me except for Traps that involved drawing pixels onto the display.
+lc4lib.h and libc.asm given for this assignment.
+frogger_script is used for assembling the game and loading all the game code.
 
-Basic skeleton of the game was given to me for the assignment, however game mechanics and logic written by myself as well.
+Most of the game code in frogger.c was written by myself, with the file and some initial code given for the assignment.  Most of os.asm was given for the assignment and traps involving drawing pixels onto the display was done by myself.
