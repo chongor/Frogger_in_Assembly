@@ -3,6 +3,8 @@ Frogger_in_Assembly
 
 Course Programming Project:  Frogger game in assembly and c.
 
+Created in the Fall Semester of my Sophomore year, 2013.
+
 A simple recreation of the classic game Frogger.
 
 The game code is written in c however the game runs in assembly on a virtual machine simulator.
